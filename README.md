@@ -60,7 +60,7 @@ Mentoria **Guardiões da Qualidade** • Foco em **testes manuais**, **Cypress**
 ---
 
 ## 📫 Contato
-- **LinkedIn:** [link](https://www.linkedin.com/in/francisco-fabio-castro/)  
+- **LinkedIn:** [Meu perfil](https://www.linkedin.com/in/francisco-fabio-castro/)  
 - **E‑mail:** fabiocastro653@gmail.com
 
 ---
