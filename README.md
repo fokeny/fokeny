@@ -4,7 +4,6 @@
 **QA Engineer** | **Estudante de ADS (Cruzeiro do Sul – início: ago/2025)**  
 Mentoria **Guardiões da Qualidade** • Foco em **testes manuais**, **Cypress**, **API Testing (Postman)** e **Boas práticas Ágeis**.
 
-> 🎯 **Objetivo**: conquistar minha primeira oportunidade como **QA (estágio/júnior)** contribuindo com qualidade desde o planejamento até a entrega.
 
 ---
 
